@@ -1,0 +1,12 @@
+dai=3
+rong=4
+h=5
+
+dai=6
+rong=7
+h=8
+
+fale
+The tich hai binh bang nhau ?  fale
+BINH k la hinh lap phuong ? fale
+BINH q la hinh lap phuong ? fale

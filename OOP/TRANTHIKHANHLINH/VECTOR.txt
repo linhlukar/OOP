@@ -1,0 +1,3 @@
+2 vector khong trung nhau
+GTLN vector 1: 3
+GTLN vector 2: 6
